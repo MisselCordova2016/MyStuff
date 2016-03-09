@@ -15,7 +15,7 @@ namespace TestApplication1.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Mi aplicacion con modificaciones subidas al GITHUB";
 
             return View();
         }
