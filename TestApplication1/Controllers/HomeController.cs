@@ -11,6 +11,7 @@ namespace TestApplication1.Controllers
         public ActionResult Index()
         {
             var xy = "Exigo";
+            var yx = "ExigoOV";
             return View();
         }
 
