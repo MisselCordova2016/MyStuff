@@ -10,6 +10,7 @@ namespace TestApplication1.Controllers
     {
         public ActionResult Index()
         {
+            var xy = "Exigo";
             return View();
         }
 
